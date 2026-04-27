@@ -1,3 +1,5 @@
+###
+
 <h1 align="center">Hi👋, I'm Jade Villar</h1>
 
 <h4 align="center">
@@ -16,13 +18,13 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 
 #
 
-### 🛠️ Tech Stack
+### 🧩 Tech Stack
 
 #### 🎨 Frontend
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html logo"  />
   <img src="https://img.shields.io/badge/CSS-65309A?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/Tailwind CSS-52B7AF?logo=tailwindcss&logoColor=white&style=for-the-badge" height="40" alt="tailwindcss logo"  />
@@ -125,20 +127,12 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 
 <br />
 
-<div align="center">
-  <a href="mailto:jadedelimavillar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://linkedin.com/in/jade-villar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/jade-villar">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
-  </a>
-  <a href="https://gitlab.com/jadedelimavillar">
-    <img src="https://img.shields.io/badge/GitLab-FF7220?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" />
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:jadedelimavillar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="gmail logo" /></a>
+  <a href="https://linkedin.com/in/jade-villar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" /></a>
+  <a href="https://github.com/jade-villar"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" /></a>
+  <a href="https://gitlab.com/jadedelimavillar"><img src="https://img.shields.io/badge/GitLab-FF7220?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" /></a>
+</p>
 
 <br />
 
