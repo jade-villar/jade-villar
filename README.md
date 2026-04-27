@@ -23,11 +23,11 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 #### 🎨 Frontend
 
 <div align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html logo"  />
-  <img src="https://img.shields.io/badge/CSS-65309A?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img src="https://img.shields.io/badge/Tailwind CSS-52B7AF?logo=tailwindcss&logoColor=white&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo" />
 </div>
 
 #### ⚙️ Backend & BaaS
@@ -41,29 +41,29 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 #### 🗄️ Database & ORM
 
 <div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-306692?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="40" alt="prisma logo" />
-  <img src="https://img.shields.io/badge/Cloudinary-3245C5?logo=cloudinary&logoColor=white&style=for-the-badge" height="40" alt="cloudinary logo" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=for-the-badge" height="40" alt="cloudinary logo" />
 </div>
 
 #### 🔐 Authentication & Validation
 
 <div align="left">
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" height="40" alt="jwt logo" />
-  <img src="https://img.shields.io/badge/Zod-1156B5?logo=zod&logoColor=white&style=for-the-badge" height="40" alt="zod logo" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white&style=for-the-badge" height="40" alt="zod logo" />
 </div>
 
 #### 📱 Mobile
 
 <div align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo" />
-  <img src="https://img.shields.io/badge/Dart-2BB1EE?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo" />
 </div>
 
 #### 🤖 Machine Learning
 
 <div align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="tensorflow logo" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" alt="tensorflow logo" />
   <img src="https://img.shields.io/badge/Teachable_Machine-4285F4?logo=google&logoColor=white&style=for-the-badge" height="40" alt="google logo" />
 </div>
 
@@ -72,15 +72,15 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
-  <img src="https://img.shields.io/badge/GitLab-FF7220?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" />
-  <img src="https://img.shields.io/badge/Postman-FF6C38?logo=postman&logoColor=white&style=for-the-badge" height="40" alt="postman logo" />
-  <img src="https://img.shields.io/badge/Figma-FF7362?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo" />
 </div>
 
 #### 🚀 Deployment
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" height="40" alt="render logo" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge" height="40" alt="render logo" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo" />
 </div>
 
@@ -127,12 +127,12 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 
 <br />
 
-<p align="center">
+<div align="center">
   <a href="mailto:jadedelimavillar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40" alt="gmail logo" /></a>
   <a href="https://linkedin.com/in/jade-villar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo" /></a>
   <a href="https://github.com/jade-villar"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" /></a>
   <a href="https://gitlab.com/jadedelimavillar"><img src="https://img.shields.io/badge/GitLab-FF7220?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" /></a>
-</p>
+</div>
 
 <br />
 
@@ -142,8 +142,10 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 
 <h6 align="center">If you like what I’m building, feel free to ⭐ the project or show your support!</h6>
 
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jade-villar.jade-villar&left_color=darkslategray&right_color=darkslategray&left_text=Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jade-villar.jade-villar&left_color=gray&right_color=gray&left_text=Views" />
 </div>
 
 <br />
