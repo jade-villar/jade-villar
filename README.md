@@ -28,6 +28,7 @@ My work emphasizes __real-world usability__, from implementing secure authentica
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-EF008F?logo=framer&logoColor=white&style=for-the-badge" height="40" alt="framer motion logo" />
 </div>
 
 #### ⚙️ Backend & BaaS
