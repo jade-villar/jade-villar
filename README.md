@@ -4,7 +4,7 @@
 
 <h4 align="center">
   
-  `Full-Stack Developer`
+  `Full Stack Developer`
   
 </h4>
 
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a Full-Stack Developer with a strong focus on building __secure__, __scalable__, and __user-friendly applications__. I enjoy turning ideas into polished products by combining __clean UI design__ with __reliable backend systems__.
+I’m a Full Stack Developer with a strong focus on building __secure__, __scalable__, and __user-friendly applications__. I enjoy turning ideas into polished products by combining __clean UI design__ with __reliable backend systems__.
 
 My work emphasizes __real-world usability__, from implementing secure authentication flows to designing intuitive user experiences. I’m continuously improving my skills and exploring better ways to build applications that people actually enjoy using.
 
@@ -37,6 +37,9 @@ My work emphasizes __real-world usability__, from implementing secure authentica
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white&style=for-the-badge" height="40" alt="zod logo" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" height="40" alt="jwt logo" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=for-the-badge" height="40" alt="cloudinary logo" />
 </div>
 
 #### 🗄️ Database & ORM
@@ -44,14 +47,6 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="40" alt="prisma logo" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=for-the-badge" height="40" alt="cloudinary logo" />
-</div>
-
-#### 🔐 Authentication & Validation
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" height="40" alt="jwt logo" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white&style=for-the-badge" height="40" alt="zod logo" />
 </div>
 
 #### 📱 Mobile
@@ -91,12 +86,12 @@ My work emphasizes __real-world usability__, from implementing secure authentica
 
 #### 🌻 Sunflow
 
-> A full-stack habit tracking application designed to help users build consistency through streak tracking and progress visualization.
+> A full stack habit tracking application designed to help users build consistency through streak tracking and progress visualization.
 
 - Built with PostgreSQL and Prisma for structured data management
 - Implemented secure authentication using JWT, HTTP-only cookies, and bcrypt
 - Enforced request validation using Zod
-- Deployed as a full-stack app on Render
+- Deployed as a full stack app on Render
 
 🔗 <https://sunflow-grow.onrender.com>
 
